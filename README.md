@@ -16,8 +16,6 @@ Dr Hadia Almahli, Chemist at University College London @HadiaAmahli
 
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd 
 
-Dr Jelena Habjanic, Protein scientist University College London
-
 Konstantin Popov, Associate Professor, Division of Chemical Biology and Medicinal Chemistry, UNC Charlotte
 
 Nicholas Scott Heaton, Associate Professor of Molecular Genetics, Microbiology and cell biology, School of Medicine, Duke University
