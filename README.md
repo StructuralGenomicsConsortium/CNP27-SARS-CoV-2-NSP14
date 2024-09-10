@@ -20,6 +20,8 @@ Konstantin Popov, Associate Professor, Division of Chemical Biology and Medicina
 
 Nicholas Scott Heaton, Associate Professor of Molecular Genetics, Microbiology and cell biology, School of Medicine, Duke University
 
+Dr. Joseph Newman, Scientist at Centre for Medicines Discovery, Oxford University, UK
+
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant.  
 Other Contributors To Date: 
